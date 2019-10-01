@@ -1,0 +1,15 @@
+{
+  "name": "design-library-pen",
+  "version": "1.0.0",
+  "description": "design assets for pen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"style-dictionary --config ./config.json  build"
+  },
+  "author": "Jason Dalton",
+  "license": "MIT",
+  "dependencies": {
+    "style-dictionary": "^2.8.2"
+  }
+}

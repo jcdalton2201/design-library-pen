@@ -1,0 +1,25 @@
+{
+    "padding": {
+        "tiny": {
+            "value": "2px"
+        },
+        "small": {
+            "value": "4px"
+        },
+        "base": {
+            "value": "8px"
+        },
+        "large": {
+            "value": "16px"
+        },
+        "x-large": {
+            "value": "32px"
+        }
+    },
+    "height": {
+        "default": {
+            "value": "16px"
+        }
+    }
+
+}

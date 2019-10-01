@@ -1,0 +1,42 @@
+{
+    "color":{
+        "primary": {
+            "value": "#00274C"
+        },
+        "secondary": {
+            "value": "#FFCB05"
+        },
+        "white":{
+            "value": "#FFFFFF"
+        },
+        "blue": {
+            "value": "#174992"
+        },
+        "brown": {
+            "value": "#7D6A56"
+        },
+        "red": {
+            "value": "#B00020"
+        },
+        "error": {
+            "value": "#B00020"
+        },
+        "success": {
+            "value": "#388E3C"
+        },
+        "gray": {
+            "100" : {
+                "value": "#545454"
+            },
+            "80": {
+                "value": "#7e7e7e"
+            },
+            "50": {
+                "value": "#a8a8a8"
+            },
+            "30": {
+                "value": "#d3d3d3"
+            }
+        }
+    }
+}
