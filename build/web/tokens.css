@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 26 Sep 2019 15:42:09 GMT
+ * Generated on Wed, 09 Oct 2019 13:22:49 GMT
  */
 
 :root {
@@ -16,6 +16,10 @@
  --color-gray-50: #a8a8a8;
  --color-gray-80: #7e7e7e;
  --color-gray-100: #545454;
+ --size-font-small: 10rem;
+ --size-font-medium: 16rem;
+ --size-font-large: 24rem;
+ --size-font-base: 16rem;
  --radius-default: 4px;
  --padding-tiny: 2px;
  --padding-small: 4px;

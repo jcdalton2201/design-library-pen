@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"style-dictionary --config ./config.json  build"
+    "build": "style-dictionary --config ./config.json  build"
   },
   "author": "Jason Dalton",
   "license": "MIT",

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Wed, 09 Oct 2019 13:22:49 GMT
+-->
+<resources>
+  <color name="color_primary">#ff00274c</color>
+  <color name="color_secondary">#ffffcb05</color>
+  <color name="color_white">#ffffffff</color>
+  <color name="color_blue">#ff174992</color>
+  <color name="color_brown">#ff7d6a56</color>
+  <color name="color_red">#ffb00020</color>
+  <color name="color_error">#ffb00020</color>
+  <color name="color_success">#ff388e3c</color>
+  <color name="color_gray_30">#ffd3d3d3</color>
+  <color name="color_gray_50">#ffa8a8a8</color>
+  <color name="color_gray_80">#ff7e7e7e</color>
+  <color name="color_gray_100">#ff545454</color>
+  
+</resources>
